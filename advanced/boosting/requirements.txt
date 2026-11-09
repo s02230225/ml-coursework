@@ -1,0 +1,10 @@
+catboost
+hyperopt
+ipython
+lightgbm
+matplotlib
+notebook
+numpy
+pandas
+scikit-learn
+xgboost

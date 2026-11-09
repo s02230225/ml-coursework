@@ -1,0 +1,10 @@
+catboost
+gdown
+ipywidgets
+matplotlib
+notebook
+numpy
+scikit-learn
+scipy
+tqdm
+umap-learn
